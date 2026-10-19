@@ -4,8 +4,7 @@ I'm **João Zenário**, a Dual MSc graduate from [**KTH Royal Institute of Techn
 
 My research interests include **robotics, multi-agent systems, decision and control systems, and safe formation control**.
 
-## Currently
-Preparing for the next step in my academic journey: **PhD research** in robotics, control, and autonomous systems.
+I'm currently preparing for the next step in my academic journey: **PhD research in robotics, control, and autonomous systems**.
 
 ## Tools & Technologies
 - **Programming:** Python, C, C++
