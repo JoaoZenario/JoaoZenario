@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hey there! 👋
 
-## About Me
 I'm **João Zenário**, a Dual MSc graduate from **KTH Royal Institute of Technology** in Systems, Control and Robotics and **Instituto Superior Técnico** in Electrical and Computer Engineering, specializing in Control, Robotics and Artificial Intelligence.
 
 My research interests include **robotics, multi-agent systems, decision and control systems, and safe formation control**.
@@ -10,8 +9,10 @@ Preparing for the next step in my academic journey: **PhD research** in robotics
 
 ## Tools & Technologies
 - **Programming:** Python, C, C++
-- **Control & Simulation:** MATLAB, Simulink, Gazebo
-- **Robotics & Autonomy:** ROS, ROS 2, PX4
+- **Control & Simulation:** Gazebo, MATLAB, Simulink
+- **Robotics & Autonomy:** ROS, ROS 2, PX4, QGroundControl
+- **Machine Learning:** PyTorch
+- **Scientific Computing:** Jupyter Notebook, Anaconda
 - **Development Environment:** Linux, Git
 
 ## Contact
