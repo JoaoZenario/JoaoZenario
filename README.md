@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm **João Zenário**, a Dual MSc graduate from **KTH Royal Institute of Technology** in Systems, Control and Robotics and **Instituto Superior Técnico** in Electrical and Computer Engineering, specializing in Control, Robotics and Artificial Intelligence.
+I'm **João Zenário**, a Dual MSc graduate from [**KTH Royal Institute of Technology**](https://www.kth.se/en) in Systems, Control and Robotics and [**Instituto Superior Técnico**](https://tecnico.ulisboa.pt/en/) in Electrical and Computer Engineering, specializing in Control, Robotics and Artificial Intelligence.
 
 My research interests include **robotics, multi-agent systems, decision and control systems, and safe formation control**.
 
